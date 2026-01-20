@@ -1,2 +1,10 @@
-500,shopping 
-500,shopping
+50,Tea and snacks
+120,Auto fare
+80,Lunch at canteen
+200,Groceries
+30,Bus ticket
+150,Mobile recharge
+60,Dinner
+250,Movie ticket
+90,Milk and bread
+500,Gym fees
